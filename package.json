@@ -1,0 +1,29 @@
+{
+  "name": "nivora-motion-study",
+  "version": "1.0.0",
+  "description": "A dynamic Framer-inspired landing page with runtime motion interactions.",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 0.0.0.0",
+    "build": "vite build",
+    "preview": "vite preview --host 0.0.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PranayVardhanChowdary/Projects-of-PVC.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PranayVardhanChowdary/Projects-of-PVC/issues"
+  },
+  "homepage": "https://github.com/PranayVardhanChowdary/Projects-of-PVC#readme",
+  "dependencies": {
+    "@vitejs/plugin-react": "^6.0.2",
+    "framer-motion": "^12.38.0",
+    "react": "^19.2.6",
+    "react-dom": "^19.2.6",
+    "vite": "^8.0.13"
+  }
+}
